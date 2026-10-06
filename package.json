@@ -1,0 +1,12 @@
+{
+  "name": "houhuyang",
+  "version": "1.1.0",
+  "private": true,
+  "description": "LogicSim · 离线逻辑关系图编辑器（纯静态，无构建步骤）",
+  "homepage": "https://houhuyang.github.io/houhuyang/",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx --yes serve .",
+    "test": "node --test tests/core.test.cjs"
+  }
+}
